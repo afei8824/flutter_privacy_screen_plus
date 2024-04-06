@@ -27,13 +27,13 @@ class _MyAppState extends State<MyApp> {
             TextButton(
               child: Text("Enable privacy screen"),
               onPressed: () async {
-                await FlutterPrivacyScreen.enablePrivacyScreen();
+                await FlutterPrivacyScreenPlus.enablePrivacyScreen();
               },
             ),
             TextButton(
               child: Text("Disable privacy screen"),
               onPressed: () async {
-                await FlutterPrivacyScreen.disablePrivacyScreen();
+                await FlutterPrivacyScreenPlus.disablePrivacyScreen();
               },
             )
           ],

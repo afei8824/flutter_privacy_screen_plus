@@ -1,3 +1,7 @@
+## 1.3.4
+
+* Fix pod install issue
+
 ## 1.3.3
 
 * Fix class naming issue
