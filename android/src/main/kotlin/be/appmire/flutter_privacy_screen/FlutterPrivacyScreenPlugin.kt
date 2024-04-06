@@ -15,7 +15,7 @@ import io.flutter.embedding.engine.plugins.FlutterPlugin.FlutterPluginBinding
 import io.flutter.embedding.engine.plugins.activity.ActivityAware
 import io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding
 
-class FlutterPrivacyScreenPlugin(): FlutterPlugin, MethodCallHandler, ActivityAware {
+class FlutterPrivacyScreenPlusPlugin(): FlutterPlugin, MethodCallHandler, ActivityAware {
 
   private lateinit var context: Context
   private lateinit var channel: MethodChannel
