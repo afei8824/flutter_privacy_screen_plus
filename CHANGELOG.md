@@ -1,3 +1,7 @@
+## 1.3.5
+
+* Fix ios issue
+
 ## 1.3.4
 
 * Fix pod install issue
