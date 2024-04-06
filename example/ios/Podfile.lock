@@ -11,7 +11,8 @@ EXTERNAL SOURCES:
   Flutter:
     :path: ".symlinks/flutter/ios"
   flutter_privacy_screen:
-    :path: ".symlinks/plugins/flutter_privacy_screen/ios"
+    :path: ".symlinks/plugins/flutter_
+    privacy_screen/ios"
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec

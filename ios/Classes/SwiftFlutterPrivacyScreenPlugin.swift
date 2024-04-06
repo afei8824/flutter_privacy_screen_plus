@@ -6,7 +6,7 @@ public class SwiftFlutterPrivacyScreenPlugin: NSObject, FlutterPlugin {
     static var enabled = true
     
     public static func register(with registrar: FlutterPluginRegistrar) {
-        let channel = FlutterMethodChannel(name: "flutter_privacy_screen", binaryMessenger: registrar.messenger())
+        let channel = FlutterMethodChannel(name: "flutter_privacy_screen_plus", binaryMessenger: registrar.messenger())
         let instance = SwiftFlutterPrivacyScreenPlugin()
         registrar.addMethodCallDelegate(instance, channel: channel)
         

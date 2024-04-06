@@ -2,7 +2,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
-  const MethodChannel channel = MethodChannel('flutter_privacy_screen');
+  const MethodChannel channel = MethodChannel('flutter_privacy_screen_plus');
 
   TestWidgetsFlutterBinding.ensureInitialized();
 

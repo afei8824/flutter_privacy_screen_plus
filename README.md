@@ -1,4 +1,4 @@
-# flutter_privacy_screen
+# flutter_privacy_screen_plus
 
 A flutter plugin that blurs the screen in the task manager.
 

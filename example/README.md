@@ -1,6 +1,6 @@
 # flutter_privacy_screen_plus_example
 
-Demonstrates how to use the flutter_privacy_screen plugin.
+Demonstrates how to use the flutter_privacy_screen_plus plugin.
 
 ## Getting Started
 
