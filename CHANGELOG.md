@@ -1,3 +1,7 @@
+## 1.3.6
+
+* Fix android issue
+
 ## 1.3.5
 
 * Fix ios issue
