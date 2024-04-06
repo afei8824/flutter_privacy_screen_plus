@@ -1,3 +1,7 @@
+## 1.3.3
+
+* Fix class naming issue
+
 ## 1.3.2
 
 * Fix ios issue
