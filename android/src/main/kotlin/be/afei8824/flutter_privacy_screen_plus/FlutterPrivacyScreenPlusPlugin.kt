@@ -1,4 +1,4 @@
-﻿package be.appmire.flutter_privacy_screen
+package be.afei8824.flutter_privacy_screen_plus
 
 import android.view.WindowManager
 import android.content.Context
@@ -22,7 +22,7 @@ class FlutterPrivacyScreenPlusPlugin(): FlutterPlugin, MethodCallHandler, Activi
   private var activity: Activity? = null
 
   override fun onAttachedToEngine(binding: FlutterPluginBinding) {
-    channel = MethodChannel(binding.binaryMessenger, "flutter_privacy_screen")
+    channel = MethodChannel(binding.binaryMessenger, "flutter_privacy_screen_plus")
     context = binding.applicationContext
     channel.setMethodCallHandler(this)
   }
