@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 
-class FlutterPrivacyScreen {
+class FlutterPrivacyScreenPlus {
   static const MethodChannel _channel =
       const MethodChannel('flutter_privacy_screen');
 
