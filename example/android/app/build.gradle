@@ -37,7 +37,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "be.appmire.flutter_privacy_screen_example"
+        applicationId "be.afei8824.flutter_privacy_screen_plus_example"
         minSdkVersion 17
         targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()

@@ -1,5 +1,5 @@
-name: flutter_privacy_screen_example
-description: Demonstrates how to use the flutter_privacy_screen plugin.
+name: flutter_privacy_screen_plus_example
+description: Demonstrates how to use the flutter_privacy_screen_plus plugin.
 publish_to: 'none'
 
 environment:
@@ -17,7 +17,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_privacy_screen:
+  flutter_privacy_screen_plus:
     path: ../
 
 # For information on the generic Dart part of this file, see the

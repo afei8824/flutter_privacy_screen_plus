@@ -1,4 +1,4 @@
-group 'be.appmire.flutter_privacy_screen'
+group 'be.afei8824.flutter_privacy_screen_plus'
 version '1.0-SNAPSHOT'
 
 buildscript {
